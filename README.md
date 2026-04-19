@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Jesús Altuve 👋
 
 ### Desarrollador Senior & Profesor Universitario
 Me apasiona la arquitectura de software, el desarrollo backend y la enseñanza. Actualmente enfocado en la transición hacia la Ciencia de Datos.
