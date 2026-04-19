@@ -11,7 +11,7 @@ Aquí puedes encontrar el material y ejercicios de mis clases organizados por le
 ### 📘 C (Arquitectura y Algoritmos)
 <a href="https://github.com/Yisus32/UNET-Lenguage-C"><img src="https://github.com/Yisus32/UNET-Lenguage-C/blob/main/images/header_c.png?raw=true" style="height: 60%; width:60%;"/></a>
 
-[![Curso C](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/Yisus32/UNET-Lenguage-C)
+[![Curso C](https://img.shields.io/github/stars/Yisus32/UNET-Lenguage-C?label=Curso%20C&style=social)](https://github.com/Yisus32/UNET-Lenguage-C)
 
 * **Introducción a la Algoritmica y Programación:** Fundamentos, tipos de datos y control de flujo.
 * **Vectores y Matrices:** Manejo de arreglos unidimencionales y bidimensionales
