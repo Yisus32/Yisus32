@@ -73,7 +73,7 @@ Aquí puedes encontrar el material y ejercicios de mis clases organizados por le
 ### ☕ Java (Programación Orientada a Objetos)
 <a href="https://github.com/Yisus32/java-desde-cero"><img src="https://github.com/Yisus32/java-desde-cero/blob/main/images/header_java.png?raw=true" style="height: 60%; width:60%;"/></a>
 
-[![Java desde cero](https://img.shields.io/github/stars/Yisus32/java-desde-cero?label=Java%desde%20cero&style=social)](https://github.com/Yisus32/java-desde-cero)
+[![Java desde cero](https://img.shields.io/github/stars/Yisus32/java-desde-cero?label=Java%20desde%20cero&style=social)](https://github.com/Yisus32/java-desde-cero)
 
 * **Programación:** Conceptos avanzados de POO, herencia y polimorfismo.
 * **Interfaces Gráficas:** Desarrollo de aplicaciones de escritorio.
