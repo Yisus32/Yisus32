@@ -39,7 +39,7 @@ Actualmente, soy candidato a **Magister Scientiarum en Informática** (UNET), en
 ## 📚 Mis Cursos y Formación
 Aquí puedes encontrar el material y ejercicios de mis clases organizados por lenguaje:
 
-### 📘 C (Arquitectura y Algoritmos)
+### 📘 C (Fundamentos y Algoritmos)
 <a href="https://github.com/Yisus32/UNET-Lenguage-C"><img src="https://github.com/Yisus32/UNET-Lenguage-C/blob/main/images/header_c.png?raw=true" style="height: 60%; width:60%;"/></a>
 
 [![Curso C](https://img.shields.io/github/stars/Yisus32/UNET-Lenguage-C?label=Curso%20C&style=social)](https://github.com/Yisus32/UNET-Lenguage-C)
