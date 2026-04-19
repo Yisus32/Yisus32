@@ -9,9 +9,9 @@ Me apasiona la arquitectura de software, el desarrollo backend y la enseñanza. 
 Aquí puedes encontrar el material y ejercicios de mis clases organizados por lenguaje:
 
 ### 📘 C (Arquitectura y Algoritmos)
-<a href="https://mouredev.link/python"><img src="https://raw.githubusercontent.com/mouredev/Hello-Python/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+<a href="https://github.com/Yisus32/UNET-Lenguage-C"><img src="https://github.com/Yisus32/UNET-Lenguage-C/blob/main/images/header_c.png?raw=true" style="height: 60%; width:60%;"/></a>
 
-[![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/mouredev/hello-python)
+[![Curso C](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/Yisus32/UNET-Lenguage-C)
 
 * **Introducción a la Algoritmica y Programación:** Fundamentos, tipos de datos y control de flujo.
 * **Vectores y Matrices:** Manejo de arreglos unidimencionales y bidimensionales
