@@ -39,8 +39,8 @@ Aquí puedes encontrar el material y ejercicios de mis clases organizados por le
 ---
 
 ## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Yisus32&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yisus32&layout=compact&theme=radical)
 
 ---
 
