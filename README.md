@@ -71,7 +71,7 @@ Aquí puedes encontrar el material y ejercicios de mis clases organizados por le
 * **Comunicación Web:** Implementación de protocolos web para el intercambio de datos en el modelo cliente/servidor.
 
 ### ☕ Java (Programación Orientada a Objetos)
-<a href="https://github.com/Yisus32/java-desde-cero"><img src="https://github.com/Yisus32/java-desde-cero/blob/main/images/header_java.png?raw=true" style="height: 60%; width:60%;"/></a>
+<a href="https://github.com/Yisus32/java-desde-cero"><img src="https://raw.githubusercontent.com/Yisus32/java-desde-cero/refs/heads/main/images/header_java.png" style="height: 60%; width:60%;"/></a>
 
 [![Java desde cero](https://img.shields.io/github/stars/Yisus32/java-desde-cero?label=Java%20desde%20cero&style=social)](https://github.com/Yisus32/java-desde-cero)
 
