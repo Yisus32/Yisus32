@@ -88,5 +88,5 @@ Aquí puedes encontrar el material y ejercicios de mis clases organizados por le
 ---
 
 ## 📫 Contacto
-- 💼 [LinkedIn](tu-link)
-- 🌐 [Mi Portafolio/Blog](tu-link)
+- 💼 [LinkedIn](https://www.linkedin.com/in/altuvejesus/)
+- 🌐 [Mi Portafolio/Blog](https://greg-altuve.com)
