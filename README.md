@@ -33,7 +33,7 @@ Aquí puedes encontrar el material y ejercicios de mis clases organizados por le
 
 ## 🛠️ Tecnologías y Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,python,mysql,git,docker" />
+  <img src="https://skillicons.dev/icons?i=c,java,php,laravel,js,react,python,mysql,git,docker" />
 </p>
 
 ---
