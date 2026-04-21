@@ -84,13 +84,10 @@ Aquí puedes encontrar el material y ejercicios de mis clases organizados por le
 ### 💬 Testimonios Destacados
 
 > "Buen método de enseñanza y muy atento con los estudiantes"
->     — **María Martínez, Estudiante de Ingeniería Informática UNET** ⭐⭐⭐⭐⭐
 
 > "Explica de forma clara los temas de la asignatura y es empático con los estudiantes."
->     — **Josué Hernández - Estudiante de Ingeniería Informática UNET** ⭐⭐⭐⭐
 
 > "La forma tan clara de explicarnos los temas, y como se desenvuelve a la hora de realizar ejemplos y prácticas en clase"
->     — **Luzclaire Moreno, Estudiante de Ingeniería Informática UNET** ⭐⭐⭐⭐⭐
 
 ---
 
