@@ -81,6 +81,19 @@ Aquí puedes encontrar el material y ejercicios de mis clases organizados por le
   
 ---
 
+### 💬 Testimonios Destacados
+
+> "Buen método de enseñanza y muy atento con los estudiantes"
+> — **María - Estudiante de Ing. Informática UNET** ⭐⭐⭐⭐⭐
+
+> "Explica de forma clara los temas de la asignatura y es empático con los estudiantes."
+> — **Josué - Estudiante de Ing. Informática UNET** ⭐⭐⭐⭐
+
+> "La forma tan clara de explicarnos los temas, y como se desenvuelve a la hora de realizar ejemplos y prácticas en clase"
+> — **Luzclaire - Estudiante de Ing. Informática UNET** ⭐⭐⭐⭐⭐
+
+---
+
 ## 📊 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Yisus32&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yisus32&layout=compact&theme=radical)
